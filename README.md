@@ -1,5 +1,8 @@
-<div align="center">
 
+
+<div align="center">
+<h1>Hi, I'm Bibek Tamang 👋</h1>
+   <h2>ython & Django Developer | Backend Enthusiast</h2>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bibek!;Python+%26+Django+Developer;Building+Real+World+Backend+Projects;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
@@ -15,7 +18,7 @@ I am a passionate Python & Django developer focused on learning backend developm
 * 🎯 **Current Status:** Learning Python & Django (No job yet, focused on skill building)
 * 💻 **Focus Area:** Backend Development & REST APIs
 * 🛠️ **Interest:** Scalable web applications, database design, API development
-* 📫 **How to reach me:** yourname@email.com
+* 📫 **How to reach me:** syandenbibek@gmail.com
 
 ---
 
@@ -50,10 +53,18 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-## 🎯 Projects I've Built
+## 🎯 Featured Projects
 
-### 🛒 Products Management System (Django)
+### 🛒 Products Management System
+Backend project built with Django for product management.
 A backend project focused on product CRUD operations, database handling, and API structure using Django.
+
+👉 [View Repository](https://github.com/DevBibek/Products-management-system)
+
+### 🎓 Student Management System
+Django project for managing student information and operations.
+
+👉 [View Repository](https://github.com/DevBibek/Student-management)
 
 ### 📚 Other Practice Projects
 - Basic CRUD APIs with Django
