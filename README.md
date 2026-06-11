@@ -3,7 +3,7 @@
   <h1>Welcome to Bibek Tamang's profile! 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=false&vCenter=true&width=600&lines=Python+%26+Django+Developer;Backend+Enthusiast;Building+Awesome+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=false&vCenter=true&width=650&lines=Python+%26+Django+Developer;Backend+Development+Enthusiast;Building+Real-World+Web+Applications" alt="Typing SVG" />
   </a>
 
 </div>
@@ -24,13 +24,13 @@ I am a passionate Python & Django developer focused on learning backend developm
 ## 🛠️ My Tech Stack
 
 ### 👨‍💻 Languages
-Python • JavaScript • HTML • CSS
+Python • HTML • CSS
 
 ### ⚙️ Backend & Frameworks
 Django • Django REST Framework (basic) • FastAPI (learning)
 
 ### 🎨 Frontend
-HTML • CSS • JavaScript
+HTML • CSS • Bootstrap
 
 ### 🗄️ Database
 SQLite • MySQL (learning)
