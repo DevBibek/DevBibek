@@ -1,10 +1,9 @@
+<div align="left">
 
+  <h1>Welcome to Bibek Tamang's profile! 👋</h1>
 
-<div align="center">
-<h1>Hi, I'm Bibek Tamang 👋</h1>
-   <h2>ython & Django Developer | Backend Enthusiast</h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bibek!;Python+%26+Django+Developer;Building+Real+World+Backend+Projects;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=false&vCenter=true&width=600&lines=Python+%26+Django+Developer;Backend+Enthusiast;Building+Awesome+Web+Apps" alt="Typing SVG" />
   </a>
 
 </div>
