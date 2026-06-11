@@ -19,11 +19,6 @@ I am a passionate Python and Django learner focused on building real-world backe
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBibek&show_icons=true&theme=radical" alt="Bibek's GitHub Stats" />
-</p>
-<!--
 **DevBibek/DevBibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
